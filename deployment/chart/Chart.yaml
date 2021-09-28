@@ -1,0 +1,8 @@
+apiVersion: v2
+name: undertaqer
+description: Automatically destroy crash looped pods
+type: application
+home: https://github.com/Qovery/undertaqer
+version: 0.0.1
+appVersion: 0.0.1
+icon: https://github.com/Qovery/pleco/raw/main/assets/undertaqer_logo.png
